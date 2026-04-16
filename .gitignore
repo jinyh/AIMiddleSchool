@@ -44,3 +44,7 @@ ENV/
 *.tmp
 *.bak
 .env
+
+# Project directories
+会议纪要/
+教材/
